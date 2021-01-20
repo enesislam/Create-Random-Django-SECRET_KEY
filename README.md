@@ -1,6 +1,6 @@
 # Create-Random-Django-SECRET_KEY
 <h2>How to create a SECRET_KEY for settings.py?</h2><br>
-.........
+**************
 <br>
 Cause of share: 
 
