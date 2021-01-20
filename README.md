@@ -1,5 +1,5 @@
 # Create-Random-Django-SECRET_KEY
-How to create a SECRET_KEY for settings.py?<br>
+<h2>How to create a SECRET_KEY for settings.py?</h2><br>
 .........
 <br>
 Cause of share: 
@@ -8,4 +8,4 @@ File "C:\Users\User\Desktop\Project\Env\lib\site-packages\environ\environ.py", l
     raise ImproperlyConfigured(error_msg)
 django.core.exceptions.ImproperlyConfigured: Set the SECRET_KEY environment variable
 
-<h1>Copy commands from 'commands.txt'</h1>
+<h3>Copy commands from '<a href="#" >commands.txt</a>'</h3>
