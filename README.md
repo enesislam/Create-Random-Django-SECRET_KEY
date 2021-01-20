@@ -8,3 +8,4 @@ File "C:\Users\User\Desktop\Project\Env\lib\site-packages\environ\environ.py", l
     raise ImproperlyConfigured(error_msg)
 django.core.exceptions.ImproperlyConfigured: Set the SECRET_KEY environment variable
 
+<h1>Copy commands from 'commands.txt'</h1>
